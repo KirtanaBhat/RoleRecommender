@@ -86,7 +86,7 @@ body{
   justify-content: center;
   flex-direction: column;
   background: #b3f5db;
-  margin: 5%;
+  margin: 6%;
   border-radius: 12px;
   padding: 2%;
 
@@ -153,7 +153,7 @@ a{
 .section3{
   font-family: 'Karla', sans-serif;
   font-size: 1.1rem;
-  padding: 4% 6%;
+  padding: 5% 6%;
   background-color: black;
   color: white;
 }
